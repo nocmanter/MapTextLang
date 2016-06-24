@@ -242,7 +242,7 @@
 	}
 	">>> GARGANTUA USED FIRE <<<"
 	{
-		"chi"		"**巨人施放了火（不要站在场地边缘）**"
+		"chi"		"**巨人施放了火**"
 		"ico"		"icon_fire"
 	}
 	">>> GARGANTUA IS DEAD <<<"
@@ -278,7 +278,7 @@
 	}
 	">>> GARGANTUA USED PUSH <<<"
 	{
-		"chi"		"**巨人施放了推**"
+		"chi"		"**巨人施放了推（不要站在场地边缘）**"
 	}
 	">>> STAGE 5 <<<"
 	{
@@ -353,15 +353,15 @@
 	}
 	">>> GARGANTUA USED POISON <<<"
 	{
-		"chi"		"**巨人释放了毒**"
+		"chi"		"**巨人释放了毒（不要站在场地边缘）**"
 	}
 	">>> TRASHED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**准备传送到废弃平台**"
 	}
 	">>> FAIL ROUND <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**回合失败**"
 	}
 	">>> BALROG USED FIRE <<<"
 	{
@@ -373,6 +373,6 @@
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE KILLER <<<"
 	{
-		"chi"		"**一名玩家拾取了僵尸杀戮**"
+		"chi"		"**一名玩家拾取了僵尸秒杀**"
 	}
 }
